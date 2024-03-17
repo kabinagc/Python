@@ -6,3 +6,5 @@ So, till now this repo contains.
 4. Apriori.py -> This is implementation of apriori algorithm
 5. Quiz_game.py -> This is a Quiz game
 6. Number_guesser.py -> This is a fun game to guess the number from certain range, made by using random function
+
+other concepts that i have worked on are also included in this repository.
